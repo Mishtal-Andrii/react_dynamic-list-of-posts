@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,WACE,aACF,CAEA,QACE,iBAAkB,CAClB,OAAQ,CACR,QAAS,CACT,iBACF,CAEA,KACE,kBACF","file":"main.43ab5d35.chunk.css","sourcesContent":[".container {\n  margin: 0, auto;\n}\n\n.button {\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  margin-right: -50%;\n}\n\n.box {\n  margin-bottom: 50px;\n}\n"]}
